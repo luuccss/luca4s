@@ -14,7 +14,7 @@
 -  pronouns: they/them 😸
 
 
-![](https://github-readme-stats.vercel.app/api?username=luuccss&theme=dark&show_icons=true&hide=stars&layout=compact) ![](https://github-readme-stats.vercel.app/api/top-langs?username=luuccss&theme=dark&layout=compact&exclude_repo=omori-media-files) 
+![](https://github-readme-stats.vercel.app/api?username=luluwaffless&theme=dark&show_icons=true&hide=stars&layout=compact) ![](https://github-readme-stats.vercel.app/api/top-langs?username=luluwaffless&theme=dark&layout=compact&exclude_repo=omori-media-files) 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luluwaffless/luluwaffless/output/github-contribution-grid-snake-dark.svg" />
